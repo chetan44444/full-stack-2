@@ -1,0 +1,46 @@
+.App {
+  width: 60%;
+  margin: 30px auto;
+  padding: 30px;
+  font-family: Arial, sans-serif;
+  background-color: #e6d9ff;
+  min-height: 90vh;
+  border-radius: 15px;
+}
+
+body {
+  background-color: #f3ecff;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #4b0082;
+}
+
+h2 {
+  color: #5a189a;
+}
+
+textarea,
+select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: 1px solid #b794f4;
+}
+
+button {
+  padding: 10px 18px;
+  margin: 5px;
+  border: none;
+  border-radius: 8px;
+  background-color: #7b2cbf;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #5a189a;
+}
